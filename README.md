@@ -23,7 +23,7 @@ Push all your scripts, source code, etc… to your repository
 we will only run your executable factors
 
 Compile C function:
-'cc -fPIC -shared -o lib_factors_functions.so factors_functions.c'
+`cc -fPIC -shared -o lib_factors_functions.so factors_functions.c`
 
 ## Authors
 <details>
